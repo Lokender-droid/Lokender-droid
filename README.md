@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lokender-droid/portfolio](https://github.com/Lokender-droid/portfolio)
+- 👨‍💻 All of my projects are available at [https://lokender-droid.github.io/Portfolio.github.io/](https://lokender-droid.github.io/Portfolio.github.io/)
 
 - 📫 How to reach me **slokender05gmail.com**
 
