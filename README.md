@@ -30,52 +30,64 @@
 
 ---
 
+---
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40"/><br>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/><br>
         <b>HTML5</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40"/><br>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/><br>
         <b>CSS3</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40"/><br>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/><br>
         <b>JavaScript</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40"/><br>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/><br>
         <b>React</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40"/><br>
-        <b>Bootstrap</b>
       </td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40"/><br>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"/><br>
+        <b>Bootstrap</b>
+      </td>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/><br>
         <b>Node.js</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40"/><br>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express"/><br>
         <b>Express.js</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40"/><br>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/><br>
         <b>MongoDB</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40"/><br>
+    </tr>
+    <tr>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/><br>
         <b>MySQL</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/><br>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/><br>
         <b>Python</b>
+      </td>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br>
+        <b>Git</b>
+      </td>
+      <td align="center" width="150" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/><br>
+        <b>VS Code</b>
       </td>
     </tr>
   </table>
@@ -86,21 +98,20 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokender-droid&theme=vision-friendly-dark&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokender-droid&theme=radical&hide_border=true&background=0D1117" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=vision-friendly-dark&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokender-droid&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lokender-droid&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokender-droid&theme=react-dark&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokender-droid&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
-
