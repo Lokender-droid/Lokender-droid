@@ -55,18 +55,27 @@
 </p>
 
 ---
-
 ## 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=github_dark&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokender-droid&theme=github-dark-blue&hide_border=true" height="180px"/>
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="GitHub Stats" />  
+  <!-- Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokender-droid&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=github_dark&hide_border=true" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <!-- Trophy Section -->
+  <img src="https://github-profile-trophy.vercel.app/?username=lokender-droid&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
-## 🚀 Featured Quote  
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokender-droid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff" alt="GitHub Contribution Graph" />
+</p>
+
