@@ -28,10 +28,6 @@
 
 ---
 
----
-
----
-
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -95,28 +91,25 @@
 
 ---
 
----
-
----
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FFD700&text_color=E0E0E0" height="180"/>
   
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=lokender-droid&theme=radical&hide_border=true&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&sideLabels=ffffff" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=lokender-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF6E96&currStreakLabel=FFD700&sideLabels=FF6E96&dates=AAAAAA" height="180"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=E0E0E0" height="170"/>
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokender-droid&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokender-droid&bg_color=0D1117&color=FFD700&line=FF6E96&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
