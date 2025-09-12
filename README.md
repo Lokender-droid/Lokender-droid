@@ -94,20 +94,17 @@
 
 ## 📊 GitHub Analytics  
 
+## 📊 GitHub Analytics  
+
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FFD700&text_color=E0E0E0" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FFD700&text_color=E0E0E0" height="200" width="300"/>
   
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=lokender-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF6E96&currStreakLabel=FFD700&sideLabels=FF6E96&dates=AAAAAA" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=lokender-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF6E96&currStreakLabel=FFD700&sideLabels=FF6E96&dates=AAAAAA" height="200" width="300"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=E0E0E0" height="180"/>
-</p>
-
-<p>
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokender-droid&bg_color=0D1117&color=FFD700&line=FF6E96&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=E0E0E0" height="200" width="300"/>
 </p>
 
 ---
