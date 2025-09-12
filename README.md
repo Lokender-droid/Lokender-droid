@@ -9,7 +9,7 @@
 
 - 🌱 I’m a Full Stack Developer 
 
-- 👨‍💻 All of my projects are available at [https://lokender-droid.github.io/Portfolio.github.io/](https://lokender-droid.github.io/Portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://lokender-portfolio.vercel.app/](https://lokender-portfolio.vercel.app/)
 
 - 📫 How to reach me **slokender05gmail.com**
 
