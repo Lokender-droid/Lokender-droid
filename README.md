@@ -97,23 +97,25 @@
 
 ---
 
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=transparent&hide_border=true&title_color=F85D7F&icon_color=F8D866&text_color=9f9f9f&bg_color=0D1117" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=ffffff" height="180"/>
   
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=lokender-droid&theme=transparent&hide_border=true&fire=F85D7F&ring=F8D866&currStreakLabel=F85D7F&sideLabels=F8D866&dates=9f9f9f" height="180"/>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=lokender-droid&theme=radical&hide_border=true&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&sideLabels=ffffff" height="180"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=transparent&hide_border=true&title_color=F85D7F&text_color=9f9f9f&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=ffffff" height="170"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokender-droid&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
