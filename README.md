@@ -1,110 +1,95 @@
-<!-- Profile Header -->
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Lokender Chauhan</h1>
-<h3 align="center">💻 Full Stack Developer | Frontend Enthusiast | Lifelong Learner</h3>
+# 👋 Hi, I'm Lokender Chauhan  
+### Full Stack Developer | MERN | SaaS | AI-Powered Web Solutions
 
----
-
-<div style="background:#333; padding:20px; border-radius:10px; color:white;">
-
-## 👨‍💻 About Me  
-✨ A passionate developer focused on building **scalable, user-friendly web applications**.
-🚀 Currently exploring **MERN Stack & Cloud Integration**.  
-🌱 Learning **system design, DevOps practices, and frontend architecture**.  
-📂 My work: [Portfolio Website](https://lokender-portfolio.vercel.app/)  
-📫 Reach me: **slokender05@gmail.com**  
-⚡ Fun fact: I believe **clean code = great product**  
+🚀 I build **scalable, high-performance web applications**  
+🎯 Focused on **clean UI, optimized backend & automation**
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/lokender-chauhan" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/lokender_chauhan21" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## 🧠 Tech Stack Overview
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=E0E0E0"
+  width="100%"
+  alt="Top Languages"
+/>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Featured Projects
 
-<p align="center">
-  <table style="background:#333; border:1px solid #fff;">
-    <tr>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/><br>
-        <b>HTML5</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/><br>
-        <b>CSS3</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/><br>
-        <b>JavaScript</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/><br>
-        <b>React</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"/><br>
-        <b>Bootstrap</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/><br>
-        <b>Node.js</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express"/><br>
-        <b>Express.js</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/><br>
-        <b>MongoDB</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/><br>
-        <b>MySQL</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/><br>
-        <b>Python</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br>
-        <b>Git</b>
-      </td>
-      <td align="center" width="150" style="border: 1px solid #fff; border-radius: 10px; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/><br>
-        <b>VS Code</b>
-      </td>
-    </tr>
-  </table>
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Analytics  
+### 🌐 Portfolio Website  
+**Modern, responsive personal portfolio**
 
-<p align="center" style="background:#333; border:1px solid #fff; border-radius:10px; padding:15px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FFD700&text_color=E0E0E0" height="200" width="320"/>
+**Tech Used:** React · Tailwind CSS · Vercel  
+✔ Clean UI  
+✔ Mobile-first  
+✔ SEO optimized  
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=lokender-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF6E96&currStreakLabel=FFD700&sideLabels=FF6E96&dates=AAAAAA" height="200" width="320"/>
+🔗 **Live Demo:**  
+👉 https://lokender-portfolio.vercel.app/
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=E0E0E0" height="200" width="320"/>
-</p>
 ---
+
+### 📊 Dashboard Application  
+**Full-stack analytics dashboard**
+
+**Tech Used:** MongoDB · Express · React · Node.js  
+✔ Secure authentication  
+✔ Dynamic charts  
+✔ Real-time data handling  
+
+🔗 **GitHub Repository:**  
+👉 https://github.com/lokender-droid/dashboard-app
+
+---
+
+## ✍️ Technical Writing & Blogs  
+
+I write about **frontend performance, responsive design, and scalable systems**.
+
+📝 **Featured Article:**  
+**How to Build Fully Responsive Websites (Production Ready)**  
+
+🔗 Read on Medium:  
+👉 https://medium.com/@lokender
+
+---
+
+## 🏆 Achievements & Highlights  
+
+✔ **50+ Real-world Projects Delivered**  
+✔ **500+ GitHub Contributions**  
+✔ Experience in **Frontend + Backend + SaaS Systems**  
+✔ Strong understanding of **performance, security & scalability**
+
+---
+
+## 📬 Get in Touch  
+
+📧 **Email:**  
+**slokender05@gmail.com**
+
+🌐 **Portfolio Website:**  
+👉 https://lokender-portfolio.vercel.app/
+
+💼 **Open for:**  
+✔ Freelance Projects  
+✔ SaaS Development  
+✔ Full-time / Contract Roles  
+
+---
+
+<div align="center">
+
+### 🚀 “Code is not just written — it is engineered.”
+
+⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
