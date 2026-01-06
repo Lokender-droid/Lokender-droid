@@ -1,20 +1,26 @@
 <div align="center">
 
-# 👋 Hi, I'm Lokender Chauhan  
-### Full Stack Developer | MERN | SaaS | AI-Powered Web Solutions
+# 👨‍💻 Lokender Chauhan  
+### 🚀 Full Stack Developer | MERN | SaaS | AI Automation  
 
-🚀 I build **scalable, high-performance web applications**  
-🎯 Focused on **clean UI, optimized backend & automation**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6E96&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Apps;SaaS+%26+AI+Driven+Solutions;Clean+UI+%7C+Optimized+Backend;Automation+First+Mindset" />
 
 ---
 
-## 🧠 Tech Stack Overview
+## 🌐 Tech Intelligence Snapshot
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokender-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=E0E0E0"
-  width="100%"
-  alt="Top Languages"
+  width="90%"
 />
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,node,express,mongodb,tailwind,git,github,vercel,docker" />
+</p>
 
 ---
 
@@ -24,72 +30,82 @@
 
 ---
 
-### 🌐 Portfolio Website  
-**Modern, responsive personal portfolio**
+### 🌐 **Portfolio Website**  
+📌 *Personal Brand & Showcase Platform*  
 
-**Tech Used:** React · Tailwind CSS · Vercel  
-✔ Clean UI  
-✔ Mobile-first  
-✔ SEO optimized  
+🛠 **Tech:** React · Tailwind · Vercel  
+🎯 **Focus:** UI/UX · Performance · SEO  
 
-🔗 **Live Demo:**  
+🔗 **Live Preview**  
 👉 https://lokender-portfolio.vercel.app/
 
 ---
 
-### 📊 Dashboard Application  
-**Full-stack analytics dashboard**
+### 📊 **Analytics Dashboard App**  
+📌 *Full-Stack Data Visualization System*  
 
-**Tech Used:** MongoDB · Express · React · Node.js  
-✔ Secure authentication  
-✔ Dynamic charts  
-✔ Real-time data handling  
+🛠 **Tech:** MongoDB · Express · React · Node  
+📈 **Features:** Auth · Charts · APIs  
 
-🔗 **GitHub Repository:**  
+🔗 **GitHub Repository**  
 👉 https://github.com/lokender-droid/dashboard-app
 
 ---
 
-## ✍️ Technical Writing & Blogs  
+## ✍️ Content & Knowledge Sharing
 
-I write about **frontend performance, responsive design, and scalable systems**.
+📘 **Technical Blogs & Guides**  
+I write about **Responsive Design, Performance Optimization & Scalable Architectures**.
 
-📝 **Featured Article:**  
-**How to Build Fully Responsive Websites (Production Ready)**  
+📝 **Featured Read:**  
+➡️ *How to Build Fully Responsive Websites (Production Level)*  
 
-🔗 Read on Medium:  
+🔗 Medium Profile  
 👉 https://medium.com/@lokender
 
 ---
 
-## 🏆 Achievements & Highlights  
+## 🏆 Achievements Dashboard
 
-✔ **50+ Real-world Projects Delivered**  
-✔ **500+ GitHub Contributions**  
-✔ Experience in **Frontend + Backend + SaaS Systems**  
-✔ Strong understanding of **performance, security & scalability**
+<p align="center">
+
+🚀 **50+ Projects Delivered** &nbsp;&nbsp;|&nbsp;&nbsp;
+🔥 **500+ GitHub Contributions** &nbsp;&nbsp;|&nbsp;&nbsp;
+🧠 **Full Stack + SaaS Experience**
+
+</p>
 
 ---
 
-## 📬 Get in Touch  
+## 📬 Connect With Me
 
-📧 **Email:**  
-**slokender05@gmail.com**
+<p align="center">
+  <a href="mailto:slokender05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6E96?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://lokender-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-🌐 **Portfolio Website:**  
-👉 https://lokender-portfolio.vercel.app/
+---
 
-💼 **Open for:**  
-✔ Freelance Projects  
-✔ SaaS Development  
-✔ Full-time / Contract Roles  
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokender-droid&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokender-droid&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <div align="center">
 
-### 🚀 “Code is not just written — it is engineered.”
+### ⚡ *“I don’t just write code — I engineer scalable systems.”*
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ **Star repositories if you find value!**
 
 </div>
