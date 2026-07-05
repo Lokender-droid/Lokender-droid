@@ -51,42 +51,75 @@ Recently, my focus has shifted toward becoming a stronger Software Engineer by m
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
+<table>
+<tr>
+<td valign="top" width="25%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,cs,html,css&perline=6" />
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,cs,html,css" />
 </p>
 
-### 🎨 Frontend
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=6" />
+<td valign="top" width="25%">
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
+<td valign="top" width="25%">
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" />
+<td valign="top" width="25%">
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠 Tools
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,vscode&perline=7" />
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### Tools & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify" />
 </p>
 
-### 📚 Currently Learning
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,redis,kafka,aws,docker&perline=6" />
+<td valign="top" width="50%">
+
+### Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,redis,kafka,docker,aws" />
 </p>
 
+</td>
+
+</tr>
+</table>
 # 💼 Professional Experience
 
 ✔️ 3+ years of professional software development experience
