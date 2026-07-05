@@ -49,32 +49,77 @@ Recently, my focus has shifted toward becoming a stronger Software Engineer by m
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
 
 ### Languages
 
-JavaScript • TypeScript • Java • SQL • C#
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,cs,html,css" />
+</p>
+
+</td>
+
+<td valign="top" width="25%">
 
 ### Frontend
 
-React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+</td>
+
+<td valign="top" width="25%">
 
 ### Backend
 
-Node.js • Express.js • REST APIs • JWT Authentication • RBAC
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+</td>
+
+<td valign="top" width="25%">
 
 ### Database
 
-MongoDB • SQL Server
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Tools
+</td>
+</tr>
+</table>
 
-Git • GitHub • Postman • Swagger • Vercel • Netlify
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### Tools & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Currently Learning
 
-Spring Boot • Redis • Docker • Kafka • AWS • Microservices
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,redis,kafka,docker,aws" />
+</p>
 
+</td>
+
+</tr>
+</table>
 ---
 
 # 💼 Professional Experience
