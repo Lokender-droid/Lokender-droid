@@ -120,23 +120,17 @@ Recently, my focus has shifted toward becoming a stronger Software Engineer by m
 
 </tr>
 </table>
-# 💼 Professional Experience
 
-✔️ 3+ years of professional software development experience
+### 💼 Professional Experience
 
-✔️ Production-grade Full Stack applications
-
-✔️ REST API Development
-
-✔️ Authentication & Authorization (JWT / RBAC)
-
-✔️ Database Design
-
-✔️ Performance Optimization
-
-✔️ Responsive UI Development
-
-✔️ Enterprise Application Development
+- 3+ years of professional software development experience
+- Production-grade Full Stack applications
+- REST API Development
+- Authentication & Authorization (JWT / RBAC)
+- Database Design
+- Performance Optimization
+- Responsive UI Development
+- Enterprise Application Development
 
 ---
 
