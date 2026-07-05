@@ -142,24 +142,6 @@ Recently, my focus has shifted toward becoming a stronger Software Engineer by m
 
 ---
 
-# 🌱 Current Learning Roadmap
-
-```text
-✔ Java Core
-✔ Advanced Java
-⬜ Spring Boot
-⬜ System Design
-⬜ Low-Level Design
-⬜ Distributed Systems
-⬜ Redis
-⬜ Kafka
-⬜ Docker
-⬜ Kubernetes
-⬜ AWS
-⬜ CI/CD
-```
-
----
 
 # 🚀 Featured Projects
 
