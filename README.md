@@ -40,7 +40,7 @@ Recently, my focus has shifted toward becoming a stronger Software Engineer by m
 
 # 🚀 What I'm Currently Focused On
 
-- 📚 Mastering **Java** & **Spring Boot**
+- 📚 Experienced in **MERN Stack Development**
 - 🏗 Learning **System Design** (Beginner → Advanced)
 - 📦 Practicing **Low-Level Design (LLD)** & Design Patterns
 - 🧠 Improving **Problem Solving & DSA**
